@@ -4,7 +4,7 @@ A Streamlit web app that takes any CSV file, profiles the data automatically,
 and uses an LLM (GPT-OSS via the Groq API) to write a report with insights
 and recommendations.
 
-![App screenshot](screenshot.png)
+![App screenshot](Screenshot.png)
 
 ## Features
 - Upload any CSV and see a preview, key metrics, and descriptive statistics
