@@ -1,0 +1,31 @@
+StudentID,Name,Age,Gender,Maths,Science,English,History,Computer,Attendance,Extracurricular,Grade
+1,Arun Kumar,17,Male,85,90,78,82,92,95,Yes,A
+2,Priya Sharma,16,Female,72,68,80,75,70,88,Yes,B
+3,Karthik Raja,17,Male,91,95,89,88,96,99,No,A
+4,Divya Menon,16,Female,60,55,70,65,58,75,Yes,C
+5,Rahul Verma,17,Male,45,50,40,48,52,60,No,D
+6,Sneha Patel,16,Female,88,85,92,90,87,97,Yes,A
+7,Vikram Singh,17,Male,55,60,58,62,65,70,No,C
+8,Meena Iyer,16,Female,78,80,75,79,82,90,Yes,B
+9,Arjun Nair,17,Male,95,98,91,93,99,100,Yes,A
+10,Lakshmi Das,16,Female,65,70,68,72,69,80,No,B
+11,Suresh Babu,17,Male,40,35,45,38,42,55,No,D
+12,Anitha Rao,16,Female,82,88,79,84,85,93,Yes,A
+13,Ravi Shankar,17,Male,70,65,72,68,74,85,Yes,B
+14,Kavitha Nair,16,Female,58,62,55,60,63,68,No,C
+15,Muthu Kumar,17,Male,48,45,50,46,55,62,No,D
+16,Sangeetha,16,Female,90,92,88,91,93,98,Yes,A
+17,Ganesh Murthy,17,Male,75,78,80,76,81,87,Yes,B
+18,Nithya Sri,16,Female,63,68,65,66,70,78,No,C
+19,Bala Krishnan,17,Male,52,48,55,50,58,65,No,D
+20,Deepa Reddy,16,Female,87,89,85,88,90,95,Yes,A
+21,Rajesh Kumar,17,Male,79,82,76,80,84,89,Yes,B
+22,Shalini Devi,16,Female,66,70,69,67,72,81,No,B
+23,Manoj Pillai,17,Male,93,96,90,92,97,99,Yes,A
+24,Pooja Tiwari,16,Female,57,60,62,58,64,72,No,C
+25,Dinesh Raj,17,Male,83,87,81,85,88,94,Yes,A
+26,Revathi,16,Female,71,74,73,70,76,86,Yes,B
+27,Santhosh,17,Male,44,42,48,45,50,58,No,D
+28,Jayanthi,16,Female,86,84,88,87,89,96,Yes,A
+29,Prakash,17,Male,68,72,65,70,74,83,No,B
+30,Meenakshi,16,Female,77,80,78,76,82,91,Yes,B
